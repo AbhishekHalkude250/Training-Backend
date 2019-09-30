@@ -1,0 +1,23 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "node demo showing to store ddata into a mongoDB database",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+},
+  "keywords": [
+    "node",
+    "mogodb",
+    "monogoose",
+    "demo"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.1"
+  },
+  "devDependencies": {}
+}
